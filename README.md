@@ -263,16 +263,21 @@ addbtn.addEventListener('click',function(e){
 
     TextC.value = volume;
 });
-```
+
 
 ## OUTPUT:
+
 ![output](./static/img/output.jpg)
+
 ![output](./static/img/output1.jpg)
 
 ## CODE VALIDATION REPORT:
+
 ![output](./static/img/result.jpg)
+
 ![output](./static/img/result.jpg)
 
 ## RESULT:
+
 Thus a website is designed for the adding two numbers and is hosted in the URL http://sandhya.student.saveetha.in:8000/. HTML code is validated.
 
